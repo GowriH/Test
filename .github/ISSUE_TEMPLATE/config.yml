@@ -1,4 +1,4 @@
-name: Custom Template
+name: Custom Issue Template
 description: Exception Request
 title: "[Exeption]: "
 labels: ["Other"]
