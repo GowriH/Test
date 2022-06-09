@@ -1,10 +1,10 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: Custom Template
+description: Exception Request
+title: "[Exeption]: "
+labels: ["Other"]
 blank_issues_enabled: false
 assignees:
-  - octocat
+  - GowriH
 body:
   - type: markdown
     attributes:
